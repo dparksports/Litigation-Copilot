@@ -1,1 +1,1 @@
-# LLM-Litigation-Copilot
+# Litigation-Copilot
