@@ -1,6 +1,7 @@
 # Litigation-Copilot
 
 ## Demo
+
 Demonstrating a preliminary, legal case analysis based on a case text file supplied using a privately deployed LLM. 
 (LLM is like ChatGPT)
 So, no questions and answers are shared with a service provider like OpenAI or Google.
