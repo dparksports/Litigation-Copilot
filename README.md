@@ -3,7 +3,8 @@
 ## Demo
 
 Demonstrating a Question and Answer analysis on a legal case based on a case file supplied using a private LLM. 
-(LLM is like ChatGPT, but no questions and answers are transferred to a service provider and shared with a service provider like OpenAI or Google.)
+(LLM is like ChatGPT, but no questions and answers are transferred to a service provider and not shared with a service provider like OpenAI or Google.
+All queries and responses are saved locally on your computer or your company server.)
 
 ```python
 response = query_engine.query("Wbat is this case about")
